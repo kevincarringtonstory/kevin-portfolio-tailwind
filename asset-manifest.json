@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kevin-portfolio-tailwind/static/css/main.83cc9b83.css",
+    "main.js": "/kevin-portfolio-tailwind/static/js/main.4896801e.js",
+    "static/js/453.cbae542d.chunk.js": "/kevin-portfolio-tailwind/static/js/453.cbae542d.chunk.js",
+    "index.html": "/kevin-portfolio-tailwind/index.html",
+    "main.83cc9b83.css.map": "/kevin-portfolio-tailwind/static/css/main.83cc9b83.css.map",
+    "main.4896801e.js.map": "/kevin-portfolio-tailwind/static/js/main.4896801e.js.map",
+    "453.cbae542d.chunk.js.map": "/kevin-portfolio-tailwind/static/js/453.cbae542d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83cc9b83.css",
+    "static/js/main.4896801e.js"
+  ]
+}
