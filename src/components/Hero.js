@@ -70,7 +70,7 @@ const Hero = () => {
           Kevin Carrington
         </h1>
         <p className="text-xl md:text-2xl text-purple-400 mb-8">
-          Web Developer & Designer
+          Creative Development with AI
         </p>
         <button className="bg-purple-500 text-white px-8 py-3 rounded-full text-lg font-semibold hover:bg-purple-400 transition-colors duration-300">
           View My Work

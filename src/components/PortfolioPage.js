@@ -6,16 +6,22 @@ const PortfolioPage = () => {
     {
       title: 'Project One',
       description:
-        'This is a description of your first project. You can elaborate on the technologies used and the problems it solves.',
+        'This is a description of my first project. I will elaborate on the technologies used and the problems it solves soon.',
       imageUrl: '/api/placeholder/300/200',
     },
     {
       title: 'Project Two',
       description:
-        'Description of your second project. Highlight your role and the impact of the project.',
+        'Description of your second project.  I will elaborate on the technologies used and the problems it solves soon.',
       imageUrl: '/api/placeholder/300/200',
     },
-    // Add more projects as you build them
+    {
+      title: 'Project Three',
+      description:
+        'Description of your third project.  I will elaborate on the technologies used and the problems it solves soon.',
+      imageUrl: '/api/placeholder/300/200',
+    },
+    // Add more projects as I build them
   ];
 
   return (
