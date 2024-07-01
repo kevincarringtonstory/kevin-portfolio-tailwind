@@ -5,9 +5,9 @@ import chatLogo from '../images/chatlogo.png';
 const PortfolioPage = () => {
   const projects = [
     {
-      title: 'Basic Chat Model',
+      title: 'Basic Chat Interface',
       description:
-        'This project implements a sophisticated chatbot that uses the Llama 3-8B language model to generate high-quality responses. It leverages the powerful capabilities of this model to process user queries and provide coherent and informative answers.',
+        'A sophisticated chatbot that uses the Llama 3-8B language model with groq to generate high-quality and fast responses.',
       imageUrl: chatLogo,
       projectUrl: 'https://replit.com/@Kevington99/Basic-Chat-Model',
     },
