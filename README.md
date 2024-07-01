@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+# Kevin Carrington's Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my personal portfolio website! This project showcases my skills, projects, and experience in creative development with AI.
 
-## Available Scripts
+## About Me
 
-In the project directory, you can run:
+I'm Kevin Carrington, a developer passionate about leveraging AI to create innovative solutions.
 
-### `npm start`
+## Skills
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<div align="center">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+|        React         |    JavaScript     |       Python        |
+| :------------------: | :---------------: | :-----------------: |
+| **Machine Learning** | **Deep Learning** | **LLM Fine Tuning** |
 
-### `npm test`
+</div>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Projects
 
-### `npm run build`
+### Basic Chat Model
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This project implements a sophisticated chatbot that uses the Llama 3-8B language model to generate high-quality responses. It leverages the powerful capabilities of this model to process user queries and provide coherent and informative answers.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[View Project](https://replit.com/@Kevington99/Basic-Chat-Model)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### More Projects Coming Soon!
 
-### `npm run eject`
+I'm constantly working on new and exciting projects. Stay tuned for updates!
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Contact
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Feel free to reach out to me for collaborations or opportunities:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Email: kevington99@gmail.com
+- LinkedIn: [Kevin Carrington](https://www.linkedin.com/in/kevington99)
+- GitHub: [kevincarringtonstory](https://github.com/kevincarringtonstory)
+- Twitter: [@KevinCarring](https://x.com/KevinCarring)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Technologies Used
 
-## Learn More
+- React
+- Tailwind CSS
+- Three.js
+- React Spring
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Running the Project
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Clone the repository
+2. Install dependencies with `npm install`
+3. Run the development server with `npm start`
+4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser
 
-### Code Splitting
+## Acknowledgements
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Special thanks to all the open-source libraries and tools that made this project possible.
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+© 2024 Kevin Carrington. All rights reserved.
