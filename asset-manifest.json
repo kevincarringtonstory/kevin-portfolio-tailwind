@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/kevin-portfolio-tailwind/static/css/main.83cc9b83.css",
-    "main.js": "/kevin-portfolio-tailwind/static/js/main.b8faa8bd.js",
+    "main.css": "/kevin-portfolio-tailwind/static/css/main.7e33aefb.css",
+    "main.js": "/kevin-portfolio-tailwind/static/js/main.cf05a649.js",
     "static/js/453.cbae542d.chunk.js": "/kevin-portfolio-tailwind/static/js/453.cbae542d.chunk.js",
+    "static/media/chatlogo.png": "/kevin-portfolio-tailwind/static/media/chatlogo.51a30514c24fd63a3e2c.png",
     "index.html": "/kevin-portfolio-tailwind/index.html",
-    "main.83cc9b83.css.map": "/kevin-portfolio-tailwind/static/css/main.83cc9b83.css.map",
-    "main.b8faa8bd.js.map": "/kevin-portfolio-tailwind/static/js/main.b8faa8bd.js.map",
+    "main.7e33aefb.css.map": "/kevin-portfolio-tailwind/static/css/main.7e33aefb.css.map",
+    "main.cf05a649.js.map": "/kevin-portfolio-tailwind/static/js/main.cf05a649.js.map",
     "453.cbae542d.chunk.js.map": "/kevin-portfolio-tailwind/static/js/453.cbae542d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.83cc9b83.css",
-    "static/js/main.b8faa8bd.js"
+    "static/css/main.7e33aefb.css",
+    "static/js/main.cf05a649.js"
   ]
 }
