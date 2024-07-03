@@ -24,10 +24,10 @@ const About = () => {
             beautifully designed website, I'm all about making the web a more
             exciting and intelligent place.
           </p>
-          <h3 className="text-xl font-semibold text-purple-600 mb-4">
+          <h3 className="text-xl font-semibold text-purple-600 mb-4 text-center">
             My Skills
           </h3>
-          <div className="flex flex-wrap">
+          <div className="flex flex-wrap justify-center">
             {skills.map((skill, index) => (
               <span
                 key={index}

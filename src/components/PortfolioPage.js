@@ -12,11 +12,11 @@ const PortfolioPage = () => {
       projectUrl: 'https://replit.com/@Kevington99/Basic-Chat-Model',
     },
     {
-      title: 'Project Two',
+      title: 'Girlfriend Food Picker',
       description:
-        'Description of your second project. I will elaborate on the technologies used and the problems it solves soon.',
+        'Girlfriend Food Picker helps you suggest food options for your girlfriend based on her current mood, hunger level, and other factors.',
       imageUrl: 'https://via.placeholder.com/300x200',
-      projectUrl: '#',
+      projectUrl: 'https://replit.com/@Kevington99/GirfriendFoodPicker',
     },
     {
       title: 'Project Three',
