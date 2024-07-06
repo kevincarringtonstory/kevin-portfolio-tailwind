@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/kevin-portfolio-tailwind/static/css/main.7e33aefb.css",
-    "main.js": "/kevin-portfolio-tailwind/static/js/main.7f4c833f.js",
+    "main.js": "/kevin-portfolio-tailwind/static/js/main.58282aef.js",
     "static/js/453.cbae542d.chunk.js": "/kevin-portfolio-tailwind/static/js/453.cbae542d.chunk.js",
     "static/media/chatlogo.png": "/kevin-portfolio-tailwind/static/media/chatlogo.51a30514c24fd63a3e2c.png",
     "index.html": "/kevin-portfolio-tailwind/index.html",
     "main.7e33aefb.css.map": "/kevin-portfolio-tailwind/static/css/main.7e33aefb.css.map",
-    "main.7f4c833f.js.map": "/kevin-portfolio-tailwind/static/js/main.7f4c833f.js.map",
+    "main.58282aef.js.map": "/kevin-portfolio-tailwind/static/js/main.58282aef.js.map",
     "453.cbae542d.chunk.js.map": "/kevin-portfolio-tailwind/static/js/453.cbae542d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7e33aefb.css",
-    "static/js/main.7f4c833f.js"
+    "static/js/main.58282aef.js"
   ]
 }
